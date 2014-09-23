@@ -15,7 +15,7 @@ a {
 }
 .sidebar-offcanvas ul {
 	background-color: whitesmoke;
-    padding-top: 20px;
+    padding-top: 50px;
     padding-bottom: 20px;
 }
 .signin {
@@ -34,11 +34,4 @@ a {
 }
 .table a {
   	color: black;
-}
-.row .col-md-6 {
-	width: 32%;
-}
-.panel-body .col-md-6{
-    height: 50px;
-    width: 350px;
 }
