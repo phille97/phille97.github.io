@@ -1,0 +1,44 @@
+body {
+	background-color: #5E5E5E;
+}
+BODY {
+  background-color: #5E5E5E;
+}
+a {
+	color: #fff;
+}
+.menu {
+  	background-color: #5E5E5E;
+}
+.success a {
+	color: black;  
+}
+.sidebar-offcanvas ul {
+	background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.signin {
+  	padding-top: -0px;
+    padding-bottom: -0px;
+    background-color: #fff; 
+}
+.main-section legend {
+  	color: #fff;
+}
+.tab-content a {
+	color: black;    
+}
+.table {
+	background-color: #FFCC00;
+}
+.table a {
+  	color: black;
+}
+.row .col-md-6 {
+	width: 32%;
+}
+.panel-body .col-md-6{
+    height: 50px;
+    width: 350px;
+}
